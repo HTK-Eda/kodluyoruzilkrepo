@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+    <body>
+        <h1>Eda KAYGULU</h1>
+<h2>Hakkımda</h2>
+ <p> 20 yaşındayım. İzmir'de doğdum. SDÜ'de bilgisayar mühendisliği 3.sınıf öğrencisiyim.</p>
+
+ <h3>İlgi Alanlarım</h3>
+ <ol>
+    <li>
+    Film
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt1049413/" target="_blank ">
+                Yukarı Bak
+            </a></li>
+            <li>Mucize</li>
+            <li>Atatürk</li>
+        </ul>
+    </li>
+
+    <li>
+        Dizi
+        <ul>
+            <li>Teşkilat</li>
+            <li>Eda İle Delirmeceler</li>
+        </ul>
+    </li>
+
+    <li>
+        Kitap
+        <ul>
+            <li><a href="https://www.goodreads.com/book/7117523-sofie-nin-d-nyas/questions" target="_blank">
+                 Sofie'nin Dünyası
+                </a> </li>
+      
+            <li>Kırmızı Saçlı Kadın</li>
+            <li>İstanbul Hatırası</li>
+        </ul>
+    </li>
+ </ol>
+
+ <h3>Sevdiğim Diziler</h3>
+ <h4>Yukarı Bak</h4>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQida-OExuazamE88vo_WBfNM5pKFdqwaG0gw&usqp=CAU" alt="Yukarı Bak"
+    </body>
+</html>
+
