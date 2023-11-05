@@ -1,0 +1,57 @@
+body{
+    background-color: plum;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    color:rgb(83, 83, 83);
+}
+
+.newmy{
+    color:chocolate;
+
+}
+
+ul{
+    color:deeppink;
+    font-size: 18px;
+}
+
+
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eda Kaygulu</title>
+    <link rel="stylesheet" href="css/ödev.css">
+
+</head>
+<body>
+    <h1>Eda KAYGULU</h1>
+    <img src="https://media.licdn.com/dms/image/D4D03AQFuIhrvHIkckg/profile-displayphoto-shrink_800_800/0/1696137591128?e=2147483647&v=beta&t=qW7oKzCGM0ST4LT4erBTwsUWbeWVvYLFhbNA9RiASAw" height="180">
+    <br>
+    <h2 class="title-blue">Hakkımda</h2>
+    <p class="newmy">2003 yılında İzmir'in Ödemiş ilçesinde doğdum.<br>20 yaşındayım. Sdü'de bilgisayar mühendisliği okuyorum.</p>
+    <h2>Hedeflerim</h2>
+    <p>
+        <ul>
+            <li>İngilizcemi geliştirmek</li>
+            <li>Mobil uygulama yapmak</li>
+            <li>2024 yılında 20 kitap okumak</li>
+            <li>Medium'a blog yazmak</li>
+        </ul>
+    </p>
+    <h2>Sosyal Medya Hesaplarım</h2> 
+    <p>Aşağıdaki bağlantılara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz</p>
+   <ol>
+    <li>
+        <a href="www.linkedin.com/in/eda-kaygulu" target="_blank">Linkedln Hesabım</a>
+    </li>
+        <li> <a href="https://github.com/HTK-Eda/kodluyoruzilkrepo" target="_blank">Github Hesabım</a></li>
+   </ol> 
+
+</body>
+</html>
